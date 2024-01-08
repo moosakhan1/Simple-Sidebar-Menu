@@ -72,10 +72,11 @@ body{
     font-family: sans-serif;
     /* font-size: 300; */
     padding: 10px 10px;
-    line-height: 13px;
+    line-height: 22px;
     position: relative;
 }
 .card1{
+    margin-top: 3.5%;
     display: flex;
     align-items: center;
     justify-content: space-around;
